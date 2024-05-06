@@ -1,0 +1,6 @@
+../Core/Src/main.c:104:6:HAL_TIM_PWM_PulseFinishedCallback	16	static
+../Core/Src/main.c:109:6:RGB_Setup	8	static
+../Core/Src/main.c:181:6:Ultrasonic_Start	16	static
+../Core/Src/main.c:205:5:main	8	static
+../Core/Src/main.c:264:6:SystemClock_Config	88	static
+../Core/Src/main.c:313:6:Error_Handler	4	static,ignoring_inline_asm
